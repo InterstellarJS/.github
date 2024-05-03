@@ -4,7 +4,7 @@
 # PlanetTech
 - Public
 <p align="center">
-  <img src="./assets/pt1.png" />
+  <img src="./assets/pt2.png" />
 </p>
 
 # SpaceTech 
