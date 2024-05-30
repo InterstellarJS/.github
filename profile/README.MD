@@ -1,6 +1,7 @@
 
 # InterstellarJS
-A Plance For my 3D creating endever
+A place for the collection of my 3D creating endeavors.
+
 # PlanetTech
 - Public 
 - Planet Creation Engine
